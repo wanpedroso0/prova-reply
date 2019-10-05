@@ -1,4 +1,4 @@
-
+#Fluxo de Compra
   Dado("que eu acesse o sistema com email {string} e senha {string}") do |email, senha|                     
     visit"http://automationpractice.com/index.php?controller=authentication&back=my-account"
     @email = email
