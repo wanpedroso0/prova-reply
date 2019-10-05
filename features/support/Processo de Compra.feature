@@ -1,12 +1,8 @@
 #language:pt
 
-Funcionalidade: Adicionar ao carrinho
- Para que eu possa adicionar itens ao carrinho
- Sendo um usuario
- Posso acessar o sistema com meu email e senha previamente cadastrados
-
-    @temp
-    Cenario: Usuario insere item no carrinho
+Funcionalidade: Realizar Compra
+  
+    Cenario: Realizar compra de produto
 
         Dado que eu acesse o sistema com email "provateste5@hotmail.com" e senha "12345"
         Quando acessa a tela do produto desejado

@@ -5,7 +5,7 @@ Funcionalidade: Criar login
     Cenario: Usuario cria uma nova conta no sistema
 
         Dado que eu acesso a pagina principal
-        Quando eu faço login com "provateste5@hotmail.com"
+        Quando eu faço login com "provateste9@hotmail.com"
         E selecionar o Title "Mr"
         E informar o First name "Carlos"
 	    E informar o Last name "Adão"
